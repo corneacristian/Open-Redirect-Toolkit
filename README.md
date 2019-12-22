@@ -1,2 +1,3 @@
 # Open-Redirect-Toolkit
-A toolkit used to discover and exploit Open Redirect vulnerabilities
+![alt text](https://github.com/corneacristian/Open-Redirect-Toolkit/blob/master/logo_OPT.png)
+
